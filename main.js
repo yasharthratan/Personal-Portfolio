@@ -1,5 +1,5 @@
 
-// On Click hand emoji will take you to the top of the page
+// On Click hand emoji will take to the top of the page
 document.getElementById('top-button').addEventListener('click',function(){
     window.scrollTo(0,0);
 });
@@ -40,7 +40,7 @@ $(window).load(function() {
 });
 
 
-// If you hover over the languages I used in project Box it will do fade in animation
+// If you hover over the languages used in project Box it will do fade in animation
 $('.project_used span').on({
     mouseover: function() {
         event.preventDefault();
