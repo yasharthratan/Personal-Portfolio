@@ -11,7 +11,7 @@
 
 ```javascript
 
-if (You Liked my Portfolio) {
+if (You Liked My Portfolio) {
     StarThisRepository();
 }
 
