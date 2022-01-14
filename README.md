@@ -12,7 +12,7 @@
 ```javascript
 
 if (You Liked My Portfolio) {
-    StarThisRepository();
+    Star This Repo();
 }
 
 ```
